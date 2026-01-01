@@ -9,8 +9,6 @@ All data is saved in **localStorage**, so expenses persist after page reload.
 ## 🚀 Live Preview
 👉 **[Click here to view the app](https://vatsalkc.github.io/Expense-Tracker/)**
 
-_(Replace `YOUR_USERNAME` with your GitHub username)_
-
 ---
 
 ## ✨ Features
